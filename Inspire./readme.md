@@ -1,0 +1,2 @@
+- [How Far Can We Scale AI? Gen 3, Claude 3.5 Sonnet and AI Hype](https://youtu.be/ZyMzHG9eUFo)
+- [Claude has taken control of my computer...](https://youtu.be/DVRg0daTads)
